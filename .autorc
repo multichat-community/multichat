@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "all-contributors",
+    "conventional-commits",
+    "first-time-contributor",
+    "released",
+    ["maven", {"mavenReleaseGoals": ["package"]}],
+    ["upload-assets", ["./target/multichat*.jar"]]
+  ],
+  "owner": "multichat-community",
+  "repo": "multichat",
+  "name": "Chip Wolf",
+  "email": "hello@chipwolf.uk"
+}
