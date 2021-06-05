@@ -4,7 +4,7 @@
 
 	<groupId>xyz.olivermartin.multichat</groupId>
 	<artifactId>multichat</artifactId>
-	<version>1.9.7-SNAPSHOT</version>
+	<version>1.9.8-SNAPSHOT</version>
 
 	<scm>
 		<connection>scm:git:https://${env.GH_USER}:${env.GH_TOKEN}@github.com/multichat-community/multichat.git</connection>
