@@ -4,11 +4,24 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "ChipWolf",
+      "name": "Chip Wolf ‮",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3164166?v=4",
+      "profile": "https://chipwolf.uk/",
+      "contributions": [
+        "code",
+        "doc",
+        "infra"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "multichat",
   "projectOwner": "multichat-community",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
