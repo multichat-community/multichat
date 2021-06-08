@@ -22,6 +22,7 @@ jobs:
         run: |
           git fetch --unshallow --tags
           yarn add -D auto
+          yarn add -D auto-plugin-auto-bumper
           yarn add -D @auto-it/maven
           yarn add -D @auto-it/all-contributors
           yarn add -D @auto-it/conventional-commits
