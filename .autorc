@@ -4,6 +4,7 @@
     "conventional-commits",
     "first-time-contributor",
     "released",
+    ["auto-plugin-auto-bumper", {"scripted":true}],
     ["maven", {"mavenReleaseGoals": ["package"]}],
     ["upload-assets", ["./target/multichat*.jar"]]
   ],
